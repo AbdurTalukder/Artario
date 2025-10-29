@@ -13,23 +13,7 @@
             padding: 0;
             box-sizing: border-box;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            -webkit-tap-highlight-color: transparent; /* Chrome, Safari, Android */
-            tap-highlight-color: transparent;         /* Standard */
         }
-
-        /* Disable text selection */
-       * {
-          user-select: none;
-          -webkit-user-select: none;
-            -moz-user-select: none;
-          -ms-user-select: none;
-        }
-
-          /* Disable image dragging */
-           img {
-             -webkit-user-drag: none;
-               user-drag: none;
-            }
 
 
         
