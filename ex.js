@@ -9,7 +9,7 @@
     mobileMenuBtn.addEventListener('click', function() {
         if (!isMenuOpen) {
             mobileMenu.classList.add('active');
-            mobileMenuBtn.innerHTML = '<i class="bi bi-x-lg"></i>';
+            mobileMenuBtn.innerHTML = '<i class="bi bi-square"></i>';
             document.body.style.overflow = 'hidden';
             isMenuOpen = true;
         } else {
