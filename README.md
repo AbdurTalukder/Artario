@@ -54,7 +54,7 @@ Examples:
 - `refactor: Reformat code in File.java`
 
 > [!IMPORTANT]
-> If you’re using `Artario` on a phone or Android emulator, you can use the normal version. However, the WSA `(Windows Subsystem for Android)` version is recommended for WSA users, as it leverages the `/Windows/Artario/` directory integration to provide benefits such as fast access to exported images, projects, and text styles.
+> If you’re using on a phone or Android emulator, you can use the normal version. However, the WSA `Windows Subsystem for Android` version is recommended for WSA users, as it leverages the `/Windows/Artario/` directory integration to provide benefits such as fast access to exported images, projects, and text styles.
 ## Thanks for Contributing
 
 Thank you for contributing to Sketchware Pro! Your contributions help keep Sketchware Pro alive. Each accepted contribution will be noted down in the "About Team" activity. We'll use your GitHub name and profile picture initially, but they can be changed, of course.
