@@ -2,7 +2,9 @@
   <img src="assets/logo.png" style="width: 30%;" />
 </p>
 
-# Sketchware Pro
+<p align="center">
+   Sketchware Pro
+</p>
 [![GitHub contributors](https://img.shields.io/github/contributors/Sketchware-Pro/Sketchware-Pro)](https://github.com/Sketchware-Pro/Sketchware-Pro/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Sketchware-Pro/Sketchware-Pro)](https://github.com/Sketchware-Pro/Sketchware-Pro/commits/)
 [![Discord server stats](https://img.shields.io/discord/790686719753846785)](http://discord.gg/kq39yhT4rX)
