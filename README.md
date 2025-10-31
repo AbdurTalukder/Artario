@@ -11,7 +11,7 @@ Welcome to Sketchware Pro! Here you'll find the source code of many classes in S
 ## About the App
 Artario is the ultimate graphic design tool for professionals and beginners alike. Create beautiful visuals, edit photos, and design amazing graphics with our intuitive interface.
 
-### Source Code Map
+### Screenshot
 
 <p align="center">
   <img src="assets/screenshot.png" style="width: 90%;" />
