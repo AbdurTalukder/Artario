@@ -6,13 +6,15 @@
   <img src="assets/artario.png" style="width: 20%;" />
 </p>
 
-Welcome to Sketchware Pro! Here you'll find the source code of many classes in Sketchware Pro and, most importantly, the place to contribute to Sketchware Pro.
+<p align="center">
+  Create Without Limits
+</p>
 
 ## About the App
 Artario is the ultimate graphic design tool for professionals and beginners alike. Create beautiful visuals, edit photos, and design amazing graphics with our intuitive interface.
 
 ### Screenshot
-Experience our clean, intuitive interface designed for maximum productivity on desktop.
+Experience our clean, intuitive interface designed for maximum productivity on phone & desktop.
 <p align="center">
   <img src="assets/screenshot.png" style="width: 100%;" />
 </p>
