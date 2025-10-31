@@ -18,7 +18,7 @@ Artario is the ultimate graphic design tool for professionals and beginners alik
 </p>
 
 > [!TIP]
-> You can also check the `mod` package, which contains the majority of contributors' changes.
+> Organize your projects into `folders` or categories to find your work faster and keep everything neat.
 
 ## Contributing
 
