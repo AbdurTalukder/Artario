@@ -8,7 +8,7 @@
 
 Welcome to Sketchware Pro! Here you'll find the source code of many classes in Sketchware Pro and, most importantly, the place to contribute to Sketchware Pro.
 
-## Building the App
+## About the App
 To build the app, you must use Gradle. It's highly recommended to use Android Studio for the best experience.
 
 ### Source Code Map
