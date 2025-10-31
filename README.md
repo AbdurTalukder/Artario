@@ -14,7 +14,7 @@ Artario is the ultimate graphic design tool for professionals and beginners alik
 ### Source Code Map
 
 <p align="center">
-  <img src="assets/screenshot.png" style="width: 50%;" />
+  <img src="assets/screenshot.png" style="width: 90%;" />
 </p>
 
 > [!TIP]
