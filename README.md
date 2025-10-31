@@ -12,7 +12,7 @@ Welcome to Sketchware Pro! Here you'll find the source code of many classes in S
 Artario is the ultimate graphic design tool for professionals and beginners alike. Create beautiful visuals, edit photos, and design amazing graphics with our intuitive interface.
 
 ### Screenshot
-
+Experience our clean, intuitive interface designed for maximum productivity on desktop.
 <p align="center">
   <img src="assets/screenshot.png" style="width: 100%;" />
 </p>
