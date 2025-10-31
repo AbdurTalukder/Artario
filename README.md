@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/logo.png" style="width: 30%;" />
+  <img src="assets/artario.png" style="width: 30%;" />
 </p>
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Sketchware-Pro/Sketchware-Pro)](https://github.com/Sketchware-Pro/Sketchware-Pro/graphs/contributors)
