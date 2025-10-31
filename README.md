@@ -13,16 +13,9 @@ Artario is the ultimate graphic design tool for professionals and beginners alik
 
 ### Source Code Map
 
-| Class           | Role                                        |
-| --------------- | ------------------------------------------- |
-| `a.a.a.ProjectBuilder`      | Helper for compiling an entire project       |
-| `a.a.a.Ix`      | Responsible for generating AndroidManifest.xml |
-| `a.a.a.Jx`      | Generates source code of activities          |
-| `a.a.a.Lx`      | Generates source code of components, such as listeners, etc. |
-| `a.a.a.Ox`      | Responsible for generating XML files of layouts |
-| `a.a.a.qq`      | Registry of built-in libraries' dependencies |
-| `a.a.a.tq`      | Responsible for the compiling dialog's quizzes |
-| `a.a.a.yq`      | Organizes Sketchware projects' file paths    |
+<p align="center">
+  <img src="assets/icon.png" style="width: 30%;" />
+</p>
 
 > [!TIP]
 > You can also check the `mod` package, which contains the majority of contributors' changes.
